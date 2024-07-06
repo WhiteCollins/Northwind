@@ -1,0 +1,5 @@
+D:\Northwind\Northwind.Products.Persistence\obj\Debug\net8.0\Northwind.Products.Persistence.csproj.AssemblyReference.cache
+D:\Northwind\Northwind.Products.Persistence\obj\Debug\net8.0\Northwind.Products.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Northwind\Northwind.Products.Persistence\obj\Debug\net8.0\Northwind.Products.Persistence.AssemblyInfoInputs.cache
+D:\Northwind\Northwind.Products.Persistence\obj\Debug\net8.0\Northwind.Products.Persistence.AssemblyInfo.cs
+D:\Northwind\Northwind.Products.Persistence\obj\Debug\net8.0\Northwind.Products.Persistence.csproj.CoreCompileInputs.cache

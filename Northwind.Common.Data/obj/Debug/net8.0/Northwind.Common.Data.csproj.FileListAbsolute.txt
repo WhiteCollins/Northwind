@@ -1,0 +1,11 @@
+D:\Northwind\Northwind.Common.Data\bin\Debug\net8.0\Northwind.Common.Data.deps.json
+D:\Northwind\Northwind.Common.Data\bin\Debug\net8.0\Northwind.Common.Data.dll
+D:\Northwind\Northwind.Common.Data\bin\Debug\net8.0\Northwind.Common.Data.pdb
+D:\Northwind\Northwind.Common.Data\obj\Debug\net8.0\Northwind.Common.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Northwind\Northwind.Common.Data\obj\Debug\net8.0\Northwind.Common.Data.AssemblyInfoInputs.cache
+D:\Northwind\Northwind.Common.Data\obj\Debug\net8.0\Northwind.Common.Data.AssemblyInfo.cs
+D:\Northwind\Northwind.Common.Data\obj\Debug\net8.0\Northwind.Common.Data.csproj.CoreCompileInputs.cache
+D:\Northwind\Northwind.Common.Data\obj\Debug\net8.0\Northwind.Common.Data.dll
+D:\Northwind\Northwind.Common.Data\obj\Debug\net8.0\refint\Northwind.Common.Data.dll
+D:\Northwind\Northwind.Common.Data\obj\Debug\net8.0\Northwind.Common.Data.pdb
+D:\Northwind\Northwind.Common.Data\obj\Debug\net8.0\ref\Northwind.Common.Data.dll

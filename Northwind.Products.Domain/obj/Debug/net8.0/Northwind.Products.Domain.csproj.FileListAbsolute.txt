@@ -1,0 +1,15 @@
+D:\Northwind\Northwind.Products.Domain\bin\Debug\net8.0\Northwind.Products.Domain.deps.json
+D:\Northwind\Northwind.Products.Domain\bin\Debug\net8.0\Northwind.Products.Domain.dll
+D:\Northwind\Northwind.Products.Domain\bin\Debug\net8.0\Northwind.Products.Domain.pdb
+D:\Northwind\Northwind.Products.Domain\bin\Debug\net8.0\Northwind.Common.Data.dll
+D:\Northwind\Northwind.Products.Domain\bin\Debug\net8.0\Northwind.Common.Data.pdb
+D:\Northwind\Northwind.Products.Domain\obj\Debug\net8.0\Northwind.Products.Domain.csproj.AssemblyReference.cache
+D:\Northwind\Northwind.Products.Domain\obj\Debug\net8.0\Northwind.Products.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Northwind\Northwind.Products.Domain\obj\Debug\net8.0\Northwind.Products.Domain.AssemblyInfoInputs.cache
+D:\Northwind\Northwind.Products.Domain\obj\Debug\net8.0\Northwind.Products.Domain.AssemblyInfo.cs
+D:\Northwind\Northwind.Products.Domain\obj\Debug\net8.0\Northwind.Products.Domain.csproj.CoreCompileInputs.cache
+D:\Northwind\Northwind.Products.Domain\obj\Debug\net8.0\Northwin.BB4D1709.Up2Date
+D:\Northwind\Northwind.Products.Domain\obj\Debug\net8.0\Northwind.Products.Domain.dll
+D:\Northwind\Northwind.Products.Domain\obj\Debug\net8.0\refint\Northwind.Products.Domain.dll
+D:\Northwind\Northwind.Products.Domain\obj\Debug\net8.0\Northwind.Products.Domain.pdb
+D:\Northwind\Northwind.Products.Domain\obj\Debug\net8.0\ref\Northwind.Products.Domain.dll
